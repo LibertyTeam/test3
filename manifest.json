@@ -1,0 +1,9 @@
+{
+    "name": "Дія",
+    "short_name": "Дія",
+    "theme_color": "#aec7e6",
+    "background_color": "#aec7e6",
+    "display": "browser",
+    "orientation": "portrait",
+    "start_url": "."
+  }
