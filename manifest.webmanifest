@@ -3,7 +3,7 @@
   "short_name": "News",
   "start_url": ".",
   "display": "standalone",
-  "background_color": "#fff",
+  "background_color": "#7db3f0",
   "description": "A news app.",
   "icons": [
     {
