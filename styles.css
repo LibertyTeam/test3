@@ -8,6 +8,8 @@
  }
 body {
   background-color: #B0C6E6;
+  position: relative;
+  top: -30px;
 }
 #logocornerright{
  width: 30px;
