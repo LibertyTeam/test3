@@ -1,0 +1,98 @@
+@font-face {
+  font-family: Ukraine; /* Гарнитура шрифта */
+  src: url(e-Ukraine-Regular.otf); /* Путь к файлу со шрифтом */
+ }
+@font-face {
+  font-family: UkraineM; /* Гарнитура шрифта */
+  src: url(e-Ukraine-Medium.otf); /* Путь к файлу со шрифтом */
+ }
+body {
+  background-color: #B0C6E6;
+}
+#logocornerright{
+ width: 30px;
+ height: 30px;
+ margin-left: 240px;
+ margin-top: 30px;
+}
+
+#logocorner{
+  width: 50px;
+  margin-left: 10px;
+  margin-top: 20px;
+}
+
+#top{
+  display: flex;
+  position: relative;
+  top: 35px;
+}
+
+#passport{
+  background-color: #CFE4F4;
+  width: 300px;
+  height: 425px;
+  box-shadow: 0px 20px 100px #8fa1bb;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 100px;
+  border-radius: 8px;
+}
+#passporttext{
+  font-family: Ukraine;
+  position: relative;
+  top: 30px;
+  margin-left: 15px;
+  font-size: 15pt;
+}
+#dock{
+  display: flex;
+  margin-top: 115px;
+  margin-left: 30px;
+
+}
+
+#docpng{
+  width: 30px;
+}
+
+#doctext{
+  font-family: Ukraine;
+  font-size: 8pt;
+  margin-top: -4px;
+  margin-left: -18px;
+}
+
+#doctext2{
+  font-family: Ukraine;
+  font-size: 8pt;
+  margin-top: -4px;
+  margin-left: -10px;
+}
+
+#two{
+  margin-left: 40px;
+}
+
+#three{
+  margin-left: 50px;
+}
+
+#four{
+  margin-left: 30px;
+}
+
+#doctext3{
+  font-family: Ukraine;
+  font-size: 8pt;
+  margin-top: -4px;
+  margin-left: -29px;
+}
+
+#doctext4{
+  font-family: Ukraine;
+  font-size: 8pt;
+  margin-top: -4px;
+  margin-left: -3px;
+}
